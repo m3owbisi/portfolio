@@ -1,0 +1,435 @@
+{
+  "profile": {
+    "name": "hiral panchal",
+    "shortName": "hiral",
+    "tagline": "shipping production-grade full-stack applications — from system design to deployment.",
+    "role": "full-stack software engineer",
+    "specialization": "saas · ai integration · devops",
+    "location": "thane, maharashtra, india",
+    "yearsOfExperience": "1+",
+    "bio": "i build and ship production-ready web applications end-to-end — from requirement analysis and system design through to cloud deployment. my core stack is javascript-based: react.js, node.js, next.js, and express.js, and i've used it to build multi-user saas platforms with real-time collaboration, jwt/rbac authentication, and automated ci/cd pipelines.",
+    "avatarSvg": "/src/assets/img/avatar.svg",
+    "social": {
+      "github": "https://github.com/m3owbisi",
+      "linkedin": "https://linkedin.com/in/hiral-panchal-b89071294",
+      "instagram": "https://www.instagram.com/m3owbisi",
+      "email": "hp0505157@gmail.com",
+      "emailSecondary": "hhp57@outlook.com",
+      "phone": "+91 7304206771",
+      "website": ""
+    }
+  },
+
+  "navigation": [
+    "home",
+    "about",
+    "education",
+    "selected work",
+    "experience",
+    "projects",
+    "skills",
+    "services",
+    "certifications",
+    "achievements",
+    "contact",
+    "testimonials"
+  ],
+
+  "education": [
+    {
+      "degree": "b.sc. information technology",
+      "institution": "mulund college of commerce, university of mumbai",
+      "year": "2023 – apr 2026",
+      "result": "cgpa: 7.80"
+    },
+    {
+      "degree": "xii (hsc)",
+      "institution": "somaiya vidyavihar university",
+      "year": "2021 – 2023",
+      "result": "79.67%"
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "crossfade productions",
+      "role": "sales representative",
+      "period": "may 2026 – present",
+      "location": "bhandup",
+      "summary": "drove b2b outbound client acquisition for a media production house.",
+      "highlights": [
+        "managed the end-to-end sales cycle from prospecting and cold pitching to deal closure",
+        "contributed directly to project pipeline growth",
+        "developed client relationship skills and business communication in a fast-paced environment"
+      ]
+    },
+    {
+      "company": "amazon associates & earnkaro",
+      "role": "affiliate marketer",
+      "period": "may 2026 – present",
+      "location": "remote",
+      "summary": "launched and scaled a multi-channel affiliate marketing operation under the 'glorie' brand.",
+      "highlights": [
+        "curated monetised content across health, tech, and lifestyle verticals",
+        "operated across whatsapp, telegram, pinterest, instagram, and linkedin"
+      ]
+    },
+    {
+      "company": "inamigos foundation (iaf)",
+      "role": "ai content writer intern",
+      "period": "apr 2026",
+      "location": "chhattisgarh",
+      "summary": "produced bilingual (hindi/english) multi-platform content campaigns for project bachpanshala.",
+      "highlights": [
+        "delivered campaigns across linkedin, instagram, and twitter/x",
+        "adapted messaging, tone, and format for three distinct audience profiles",
+        "zero revision cycles from supervisors"
+      ]
+    },
+    {
+      "company": "digi suraksha parhari foundation",
+      "role": "cyber security intern",
+      "period": "apr 2025 – may 2025",
+      "location": "haryana",
+      "summary": "architected an award-winning four-agent ai cybersecurity platform.",
+      "highlights": [
+        "validated against 17 mitre att&ck techniques",
+        "performed ethical hacking, osint, and web vulnerability assessment",
+        "hands-on experience with ssh, vpn, exploit research, and security debugging tools",
+        "won best cyber security project award"
+      ]
+    },
+    {
+      "company": "ca office",
+      "role": "data entry operator (tally erp)",
+      "period": "part-time",
+      "location": "thane",
+      "summary": "maintained zero-error financial records across multiple client accounts in tally erp.",
+      "highlights": [
+        "managed ledgers, gst entries, and bank reconciliation under strict compliance deadlines",
+        "zero-error record across multiple client accounts"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "protein-bind",
+      "title": "protein bind",
+      "subtitle": "real-time collaborative research platform",
+      "description": "a production-grade multi-user saas platform with zero critical defects at release, supporting real-time collaboration across concurrent users. features websocket integration, jwt/rbac auth, live analytics dashboards, and automated transactional email flows.",
+      "stack": ["next.js", "typescript", "ably pub/sub", "nextauth", "apexcharts", "jest", "pytest"],
+      "role": "sole developer & architect",
+      "year": "2026",
+      "link": "https://protein-bind-v7.vercel.app",
+      "github": "https://github.com/m3owbisi/protein-bind",
+      "image": "",
+      "highlight": true
+    },
+    {
+      "id": "ci-cd-pipeline",
+      "title": "ci/cd pipeline automation",
+      "subtitle": "jenkins & docker automated deployment",
+      "description": "eliminated 100% of manual release overhead by automating the entire build-to-deployment pipeline. multi-stage pipeline with containerised runners and failure notifications.",
+      "stack": ["jenkins", "docker", "bash/shell scripting"],
+      "role": "devops engineer",
+      "year": "2025",
+      "link": "",
+      "github": "https://github.com/m3owbisi",
+      "image": "",
+      "highlight": true
+    },
+    {
+      "id": "customer-support-crm",
+      "title": "customer support ticketing crm",
+      "subtitle": "end-to-end ticket management system",
+      "description": "built a functional crm system for ticket management with end-to-end ownership across frontend, backend, and database layers — demonstrating enterprise-pattern application design.",
+      "stack": ["full-stack javascript", "database integration"],
+      "role": "full-stack developer",
+      "year": "2025",
+      "link": "https://customer-support-ticketing-crm-syst-kohl.vercel.app",
+      "github": "https://github.com/m3owbisi/customer-support-ticketing-CRM-system",
+      "demo": "https://youtu.be/SF1TdKykr5A?si=E8DuHXNahO3LCBi-",
+      "image": "",
+      "highlight": true
+    },
+    {
+      "id": "cybershield",
+      "title": "cybershield",
+      "subtitle": "ai cybersecurity platform (award-winning)",
+      "description": "four-agent ai cybersecurity platform (defense, detection, offense & coordinator agents) validated against 17 mitre att&ck techniques. won best cyber security project award.",
+      "stack": ["multi-agent ai", "linux", "osint tools", "tryhackme", "overthewire"],
+      "role": "security engineer & ai architect",
+      "year": "2025",
+      "link": "",
+      "github": "",
+      "demo": "https://youtu.be/356-4RFTUBk?si=9dGi8wa8yh4eDIv_",
+      "image": "",
+      "highlight": true
+    },
+    {
+      "id": "bitlinks",
+      "title": "bitlinks",
+      "subtitle": "url shortener with analytics",
+      "description": "full-stack url shortener with built-in analytics tracking.",
+      "stack": ["full-stack javascript"],
+      "role": "full-stack developer",
+      "year": "2025",
+      "link": "https://bit-links-v7.vercel.app",
+      "github": "https://github.com/m3owbisi/bit-links",
+      "image": "",
+      "highlight": false
+    },
+    {
+      "id": "bittree",
+      "title": "bittree",
+      "subtitle": "linktree clone with dynamic routing",
+      "description": "linktree-style link aggregator with dynamic routing and custom theming.",
+      "stack": ["full-stack javascript", "dynamic routing"],
+      "role": "full-stack developer",
+      "year": "2025",
+      "link": "https://linktree-clone-v7.vercel.app",
+      "github": "https://github.com/m3owbisi/linktree-clone",
+      "image": "",
+      "highlight": false
+    },
+    {
+      "id": "amazon-clone",
+      "title": "amazon clone",
+      "subtitle": "e-commerce frontend replica",
+      "description": "pixel-accurate frontend replica of amazon's e-commerce interface.",
+      "stack": ["html", "css", "javascript"],
+      "role": "frontend developer",
+      "year": "2024",
+      "link": "https://amazon-clone-m3owbisi.netlify.app",
+      "github": "https://github.com/m3owbisi/amazon-clone",
+      "image": "",
+      "highlight": false
+    },
+    {
+      "id": "green-computing-calculator",
+      "title": "green computing calculator",
+      "subtitle": "carbon footprint calculator for cloud",
+      "description": "calculates carbon footprint metrics for cloud computing workloads.",
+      "stack": ["html", "css", "javascript"],
+      "role": "frontend developer",
+      "year": "2024",
+      "link": "https://m3owbisi.github.io/green-computing-calculator",
+      "github": "https://github.com/m3owbisi/green-computing-calculator",
+      "image": "",
+      "highlight": false
+    },
+    {
+      "id": "currency-converter",
+      "title": "currency converter",
+      "subtitle": "real-time currency conversion",
+      "description": "real-time currency converter using live exchange rate apis.",
+      "stack": ["javascript"],
+      "role": "developer",
+      "year": "2024",
+      "link": "https://currency-converter-ira.netlify.app",
+      "github": "https://github.com/m3owbisi/currency-converter",
+      "image": "",
+      "highlight": false
+    },
+    {
+      "id": "pyshop",
+      "title": "pyshop",
+      "subtitle": "e-commerce with django orm",
+      "description": "e-commerce platform built with django orm, sqlite, and postgresql.",
+      "stack": ["django", "sqlite", "postgresql"],
+      "role": "full-stack developer",
+      "year": "2024",
+      "link": "https://pyshop-building-a-website-with-djan.vercel.app",
+      "github": "https://github.com/m3owbisi/pyshop-building-a-website-with-django",
+      "image": "",
+      "highlight": false
+    },
+    {
+      "id": "stone-paper-scissors",
+      "title": "stone paper scissors",
+      "subtitle": "browser game",
+      "description": "classic stone paper scissors game playable in the browser.",
+      "stack": ["javascript"],
+      "role": "developer",
+      "year": "2024",
+      "link": "https://stone-paper-scissors-mini-project-hp.netlify.app",
+      "github": "https://github.com/m3owbisi/mini_project---stone-paper-scissors",
+      "image": "",
+      "highlight": false
+    },
+    {
+      "id": "tic-tac-toe",
+      "title": "tic-tac-toe",
+      "subtitle": "classic browser game",
+      "description": "tic-tac-toe game built with vanilla javascript.",
+      "stack": ["javascript"],
+      "role": "developer",
+      "year": "2024",
+      "link": "https://tic-tac-toe-game-in-javascript-hiral.netlify.app",
+      "github": "https://github.com/m3owbisi/tic-tac-toe-game-in-javascript",
+      "image": "",
+      "highlight": false
+    },
+    {
+      "id": "excel-etl-automation",
+      "title": "excel etl automation",
+      "subtitle": "automated data pipeline",
+      "description": "automated excel data extraction, transformation, and loading pipeline.",
+      "stack": ["python", "openpyxl"],
+      "role": "developer",
+      "year": "2024",
+      "link": "",
+      "github": "https://github.com/m3owbisi/automation-with-python",
+      "image": "",
+      "highlight": false
+    },
+    {
+      "id": "music-genre-predictor",
+      "title": "music genre predictor",
+      "subtitle": "ml classification model",
+      "description": "machine learning model that predicts music genres using classification algorithms.",
+      "stack": ["pandas", "scikit-learn", "jupyter"],
+      "role": "developer",
+      "year": "2024",
+      "link": "",
+      "github": "https://github.com/m3owbisi/machine-learning-with-python",
+      "image": "",
+      "highlight": false
+    },
+    {
+      "id": "excel-data-analysis",
+      "title": "excel data analysis",
+      "subtitle": "customer kpi dashboard",
+      "description": "customer analytics dashboard built with pivot tables and power query.",
+      "stack": ["ms excel", "pivot tables", "power query"],
+      "role": "analyst",
+      "year": "2024",
+      "link": "",
+      "github": "https://github.com/m3owbisi/excel-data-analysis",
+      "image": "",
+      "highlight": false
+    }
+  ],
+
+  "skills": {
+    "categories": [
+      {
+        "name": "primary: full-stack development",
+        "items": [
+          { "name": "javascript", "proficiency": 90 },
+          { "name": "react.js", "proficiency": 85 },
+          { "name": "node.js", "proficiency": 85 },
+          { "name": "next.js", "proficiency": 82 },
+          { "name": "html5 / css3", "proficiency": 88 },
+          { "name": "express.js", "proficiency": 80 },
+          { "name": "typescript", "proficiency": 78 }
+        ]
+      },
+      {
+        "name": "secondary: data & analytics",
+        "items": [
+          { "name": "python", "proficiency": 80 },
+          { "name": "sql (mysql / postgresql)", "proficiency": 78 },
+          { "name": "mongodb", "proficiency": 78 },
+          { "name": "pandas / numpy", "proficiency": 72 },
+          { "name": "power bi / excel", "proficiency": 70 },
+          { "name": "scikit-learn", "proficiency": 70 }
+        ]
+      },
+      {
+        "name": "tertiary: devops & infrastructure",
+        "items": [
+          { "name": "git / github", "proficiency": 88 },
+          { "name": "docker", "proficiency": 75 },
+          { "name": "jenkins", "proficiency": 75 },
+          { "name": "aws ec2", "proficiency": 70 },
+          { "name": "linux / bash", "proficiency": 75 },
+          { "name": "vercel / netlify", "proficiency": 85 }
+        ]
+      },
+      {
+        "name": "additional",
+        "items": [
+          { "name": "ai/llm api integration", "proficiency": 75 },
+          { "name": "websocket / real-time", "proficiency": 80 },
+          { "name": "jwt / rbac auth", "proficiency": 80 },
+          { "name": "rest api design", "proficiency": 82 },
+          { "name": "ci/cd pipelines", "proficiency": 75 },
+          { "name": "postman / api testing", "proficiency": 78 }
+        ]
+      }
+    ]
+  },
+
+  "services": [
+    {
+      "name": "full-stack web development",
+      "description": "end-to-end application development from ui design to api architecture to database design and cloud deployment"
+    },
+    {
+      "name": "saas platform development",
+      "description": "multi-user platforms with real-time features, authentication, role-based access, and subscription workflows"
+    },
+    {
+      "name": "api development & integration",
+      "description": "restful api design, third-party api integration, ai/llm api integration"
+    },
+    {
+      "name": "ci/cd & devops setup",
+      "description": "automated build-to-deployment pipelines using jenkins, docker, and cloud platforms"
+    },
+    {
+      "name": "data dashboards & analytics",
+      "description": "interactive dashboards, etl pipelines, and data-driven features using python and bi tools"
+    },
+    {
+      "name": "cybersecurity assessment",
+      "description": "web vulnerability assessment, osint, ethical hacking fundamentals"
+    }
+  ],
+
+  "certifications": [
+    { "name": "ai content writing", "issuer": "inamigos foundation (iaf)", "date": "apr 2026" },
+    { "name": "tech-a-thon 2026 — technobeat v.i26", "issuer": "school of computing & technology", "date": "jan 2026" },
+    { "name": "skyscanner swe simulation (js/react)", "issuer": "forage", "date": "jul 2025" },
+    { "name": "cyber security internship", "issuer": "digi suraksha parhari foundation", "date": "may 2025" },
+    { "name": "best cyber security project award", "issuer": "digi suraksha parhari foundation", "date": "may 2025" },
+    { "name": "tech-a-thon 2025 — technobeat v.i25", "issuer": "school of computing & technology", "date": "feb 2025" },
+    { "name": "gst using tallyprime", "issuer": "tallyprime", "date": "oct 2024" },
+    { "name": "foundational c# with microsoft", "issuer": "freecodecamp", "date": "jun 2024" },
+    { "name": "tallyessential level 1", "issuer": "tallyprime", "date": "apr 2024" }
+  ],
+
+  "achievements": [
+    "won best cyber security project — architected a 4-agent ai platform validated against 17 mitre att&ck techniques",
+    "subject topper in advanced gst using tallyprime & devops",
+    "participated in tech-a-thon hackathons twice (2025 & 2026)",
+    "10+ projects deployed to production across vercel, netlify, and github pages",
+    "zero critical defects at release for protein bind (5-layer test coverage)",
+    "zero revision cycles on bilingual content campaigns (iaf internship)"
+  ],
+
+  "testimonials": [
+    {
+      "id": "t1",
+      "quote": "i follow clean architecture principles, agile practices, and focus on writing scalable, maintainable code. i genuinely enjoy discovering how technology works behind the scenes.",
+      "name": "hiral panchal",
+      "role": "full-stack software engineer",
+      "avatarColor": "#a855f7"
+    }
+  ],
+
+  "footer": {
+    "copyright": "© 2026 hiral panchal · built with passion",
+    "tagline": "full-stack software engineer · thane, india",
+    "languages": [
+      { "language": "english", "level": "full professional" },
+      { "language": "hindi", "level": "professional working" },
+      { "language": "gujarati", "level": "native" },
+      { "language": "marathi", "level": "limited working" }
+    ]
+  },
+
+  "availability": "immediately available · open to on-site, hybrid, remote"
+}
