@@ -1,0 +1,3 @@
+- [x] Update package.json scripts to be cross-platform (use `next dev/build/start/lint` instead of `node_modules\.bin\next.cmd ...`).
+- [ ] Run local build/test command to sanity-check (`npm run build`).
+- [ ] Ensure Vercel build should succeed after redeploy.
